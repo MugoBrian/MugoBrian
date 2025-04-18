@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian mugo</h1>
+<h1 align="center">Hello 👋, I am Brian mugo</h1>
 <h3 align="center">A passionate UI/UX and Software Developer from Silicon Savannah</h3>
 
 - 🔭 I’m currently working on [DiscussBox](https://www.figma.com/proto/5sCKKCxEJtc3lukVWgmRqw/Major-Design-Tutorial?node-id=1316-2509&t=W9GSiL6k9e9ad5l1-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1316%3A2509&show-proto-sidebar=1)
