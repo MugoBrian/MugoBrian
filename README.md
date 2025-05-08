@@ -14,9 +14,9 @@ Here are some of my most popular repositories that demonstrate my skills and con
 
 a11y-checker-api: A backend API for checking web accessibility issues. With this API, you can easily scan your website and identify any accessibility concerns.
 
-mzima-a11y-checker: A comprehensive web accessibility checker tool that allows you to analyze your website against accessibility guidelines, generate reports and suggestions for improving accessibility.
+mzima-a11y-checker: A comprehensive web accessibility checker tool that allows you to analyse your website against accessibility guidelines, generate reports and suggestions for improving accessibility.
 
-Other Projects - Filtered By Languages (To be update soon):
+Other Projects - Filtered By Languages (To be updated soon):
 
 - [All Java Projects (Javafx, OOP Java, Servlets/JSP)](https://github.com/MugoBrian?tab=repositories&q=&type=&language=java)
 
