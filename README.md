@@ -22,7 +22,8 @@ mzima-a11y-checker: A comprehensive web accessibility checker tool that allows y
 
 
 
-- 📫 How to reach me **brianmuchirimugo@gmail.com**
+
+📫 How to reach me **brianmuchirimugo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
