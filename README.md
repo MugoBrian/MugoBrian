@@ -2,7 +2,7 @@
 <h3 align="center">A passionate UI/UX and Software Developer from Silicon Savannah</h3>
 
 - 🔭 I’m currently working on [DiscussBox](https://www.figma.com/proto/5sCKKCxEJtc3lukVWgmRqw/Major-Design-Tutorial?node-id=1316-2509&t=W9GSiL6k9e9ad5l1-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1316%3A2509&show-proto-sidebar=1)
-
+and contributing to open source project [Dottie](https://github.com/MugoBrian/dottie)
 - 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Open source projects - Documentation, Code or UI/UX**
@@ -12,15 +12,15 @@
 - Notable Repositories 💼
 Here are some of my most popular repositories that demonstrate my skills and contributions:
 
-a11y-checker-api: A backend API for checking web accessibility issues. With this API, you can easily scan your website and identify any accessibility concerns.
+[a11y-checker-api](https://github.com/MugoBrian/a11y-checker-api): A backend API for checking web accessibility issues. With this API, you can easily scan your website and identify any accessibility concerns.
 
-mzima-a11y-checker: A comprehensive web accessibility checker tool that allows you to analyse your website against accessibility guidelines, generate reports and suggestions for improving accessibility.
+[mzima-a11y-checker](https://github.com/MugoBrian/mzima-a11y-checker): A comprehensive web accessibility checker tool that allows you to analyse your website against accessibility guidelines, generate reports and suggestions for improving accessibility.
 
 #### Other Projects - Filtered By Languages (To be updated soon):
 
 1. [All Java Projects (Javafx, OOP Java, Servlets/JSP)](https://github.com/MugoBrian?tab=repositories&q=&type=&language=java)
 
-
+-- Soon To Be Updated --
 
 
 📫 How to reach me **brianmuchirimugo@gmail.com**
